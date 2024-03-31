@@ -31,7 +31,7 @@ I love using technology to solve problems at scale. I'm interested in fullstack 
 
 - 👨‍🎓: Freshman at UC San Diego, studying Mathematics and Computer Science.
 
-- 🕔: In my free time, I like building software, self stuyding math, and building businesses!
+- 🕔: In my free time, I like building software, self studying math, and building businesses!
 
 - 📧:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-YohannDSouza-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yohanndsouza0412005)
 
