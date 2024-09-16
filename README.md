@@ -25,15 +25,15 @@
 
 ### 👨‍💻 About Me :
 
-I love using technology to solve problems at scale. I'm interested in fullstack and backend development, artifical intelligence, and quantitative trading!
+Interesting in quant dev, fullstack and AI
 
-- 💻: Currently interning at ZedmixAI, a media company based in South Africa, building the future of AI powered news automation!
+- 💻: Currently building the future of AI powered content automation @ Zedmix AI
 
-- 👨‍🎓: Freshman at UC San Diego, studying Mathematics and Computer Science.
+- 👨‍🎓: Sophomore @ UC San Diego studying Math and CS
 
 - 🕔: In my free time, I like building software, self studying math, and building businesses!
 
-- 📧:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-YohannDSouza-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yohanndsouza0412005)
+- 📧:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-YohannDSouza-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ydsouza)
 
 ---
 
