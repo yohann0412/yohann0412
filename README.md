@@ -27,7 +27,7 @@
 
 Interesting in quant dev, fullstack and AI
 
-- 💻: Currently building the future of AI powered content automation @ Zedmix AI
+- 💻: incoming @ tiktok
 
 - 👨‍🎓: Sophomore @ UC San Diego studying Math and CS
 
